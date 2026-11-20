@@ -1,4 +1,11 @@
 // news-image-20261119 entry, Node 22, standard library only.
+// v2: rank-1 restyle of the 19 November front page. The entry.png next to
+// this file is the v2 image (214,418 bytes, sha256 1e06e9c3d13672c8c68a0070
+// 2097db24a0a60aefb793dcb203c1654591989d64): giant serif date masthead,
+// black label bars on the illustrated panels, sentence-case headlines,
+// source tags on every deck, and the same 44 stories as v1 with three
+// new illustrated panels (Colombia strike, Nairobi doping ban, Australia
+// jobless 4.9 percent).
 // The front page is the entry.png sitting next to this file. This program
 // copies that file into the output directory so the grader reads exactly
 // those bytes. Run it outside the grader with:
